@@ -1,5 +1,5 @@
 # DailyNews
-An Android appplication which is used to help to track the habits as well help to quit bad habits.
+An Android appplication which display the latest daily news and user can save the news for future read.
 
 
 <h3>Screenshots</h3>
