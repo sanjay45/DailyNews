@@ -1,5 +1,5 @@
 # DailyNews
-An Android appplication which display the latest daily news and user can save the news for future read.
+An Android appplication which display the latest daily news and also user can save the news for future read.
 
 
 <h3>Screenshots</h3>
