@@ -13,7 +13,7 @@ An Android appplication which display the latest daily news and also user can sa
 <br>
 <br>
 <div class="row">
-      <img src="https://github.com/sanjay45/DailyNews/blob/master/Screenshots/SavedNews.png" width="250">
+      
       <img src="https://github.com/sanjay45/DailyNews/blob/master/Screenshots/NoInternetConnection.png" width="250">
       <img src="https://github.com/sanjay45/DailyNews/blob/master/Screenshots/NoInternetConnection1.png" width="250">
 </div>
